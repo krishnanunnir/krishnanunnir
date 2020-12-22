@@ -1,5 +1,5 @@
 # Hi 👋!  
-I am **Krishnanunnni**, and I build things. Currently working on [ezhuth.in](www.ezhuth.in).
+I am **Krishnanunnni**, and I build things.
 
 ## Articles
 * [Building ezhuth.in - lessons](http://krishnanunnir.me/building-ezhuthin/)
